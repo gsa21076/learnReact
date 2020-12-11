@@ -52,10 +52,10 @@ class RenderJSX extends React.Component {
 
               <div className="features-slider">
                 <div className="features-slider_items">
-                  <FeaturesSliderItem picture="./images/1.svg" number="Первое" ></FeaturesSliderItem>
-                  <FeaturesSliderItem picture="./images/2.svg" number="Второе" ></FeaturesSliderItem>
-                  <FeaturesSliderItem picture="./images/3.svg" number="Третье" ></FeaturesSliderItem>
-                  <FeaturesSliderItem picture="./images/4.svg" number="Четвертое" ></FeaturesSliderItem>
+                  <FeaturesSliderItem picture="./images/1.svg" number="Первое" />
+                  <FeaturesSliderItem picture="./images/2.svg" number="Второе" />
+                  <FeaturesSliderItem picture="./images/3.svg" number="Третье" />
+                  <FeaturesSliderItem picture="./images/4.svg" number="Четвертое" />
 
 
                 </div>
