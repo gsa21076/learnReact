@@ -11,8 +11,6 @@ const FeaturesSliderItem = (props) => {
 
 };
 
-// url(./images/1.svg)
-
 class RenderJSX extends React.Component {
   render() {
     return (
